@@ -1,6 +1,6 @@
-# Ian Lunn - Web Designer & Front-end Developer
+# Ian Lunn - Front-end Developer
 
-Hi, I’m Ian. I create successful websites that are thoughtfully designed and built with performance and best practices in mind.
+Hi, I’m Ian. I create successful websites that are fast, easy to use, and built with best practices.
 
 Some of my popular GitHub repos:
 
